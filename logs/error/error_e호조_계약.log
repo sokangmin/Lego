@@ -1,0 +1,1 @@
+10:12:39.266 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - java.lang.ArrayIndexOutOfBoundsException: 34

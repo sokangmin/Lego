@@ -1,0 +1,2 @@
+15:26:03.754 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.esaram.util.NewGpkiUtil.init(NewGpkiUtil.java:54) - Loading gpki certificate : myServerId=SVR1750087002
+15:26:03.780 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.esaram.util.NewGpkiUtil.init(NewGpkiUtil.java:79) - GpkiUtil initialized

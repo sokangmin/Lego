@@ -1,0 +1,1 @@
+11:12:39.646 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_expd_bcnc.FailBlock.dooo(FailBlock.java:20) - org.hibernate.exception.GenericJDBCException: could not execute batch

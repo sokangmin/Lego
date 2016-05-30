@@ -1,0 +1,6 @@
+16:10:25.611 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - Invalid identifier.   
+at line 1, column 191:
+ tfe_assets_.THNG_UNIT as THNG_UNI5_0_, tfe_assets_.LAST_THNG_CHANGE_MATTER as L
+                                        ^
+16:24:47.059 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - "SFE"."TFE_ASSETS_INFO_CMMN"."FRST_PURCHS_DE" The value is too large for the column. (Actual value: 10, Maximum value: 8)
+16:24:47.064 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]

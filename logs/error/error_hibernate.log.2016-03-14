@@ -1,0 +1,24 @@
+11:38:26.298 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - Connections could not be acquired from the underlying database!
+12:37:18.842 [pool-3-thread-3] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - Connections could not be acquired from the underlying database!
+12:37:18.874 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - Connections could not be acquired from the underlying database!
+12:37:38.845 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - Connections could not be acquired from the underlying database!
+12:37:48.991 [pool-3-thread-3] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - Connections could not be acquired from the underlying database!
+12:37:59.131 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - Connections could not be acquired from the underlying database!
+12:37:59.147 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - Connections could not be acquired from the underlying database!
+12:38:09.254 [pool-3-thread-3] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - Connections could not be acquired from the underlying database!
+12:38:28.875 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - Connections could not be acquired from the underlying database!
+12:38:38.983 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - Connections could not be acquired from the underlying database!
+16:16:40.290 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - An attempt by a client to checkout a Connection has timed out.
+16:16:41.308 [pool-3-thread-3] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - An attempt by a client to checkout a Connection has timed out.
+16:16:42.339 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - An attempt by a client to checkout a Connection has timed out.
+16:16:43.354 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - An attempt by a client to checkout a Connection has timed out.
+16:16:44.369 [pool-3-thread-3] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - An attempt by a client to checkout a Connection has timed out.
+16:31:18.505 [pool-3-thread-3] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - An attempt by a client to checkout a Connection has timed out.
+16:31:48.766 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - An attempt by a client to checkout a Connection has timed out.
+16:31:58.764 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - An attempt by a client to checkout a Connection has timed out.
+16:32:09.755 [pool-3-thread-3] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - An attempt by a client to checkout a Connection has timed out.
+16:32:18.750 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - An attempt by a client to checkout a Connection has timed out.
+16:35:24.800 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - An attempt by a client to checkout a Connection has timed out.
+16:35:25.835 [pool-3-thread-3] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - An attempt by a client to checkout a Connection has timed out.
+16:35:26.852 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - An attempt by a client to checkout a Connection has timed out.
+16:35:27.869 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - An attempt by a client to checkout a Connection has timed out.

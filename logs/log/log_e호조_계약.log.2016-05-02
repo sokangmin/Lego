@@ -1,0 +1,4 @@
+17:43:56.130 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+17:55:08.684 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+17:56:50.109 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+18:00:03.270 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1

@@ -1,0 +1,5 @@
+18:42:43.494 [pool-4-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_thing.FromFileBlock.doing(FromFileBlock.java:25) - There is not directory. It create directory. Check the path on the 'prop.properties' file.
+18:42:43.498 [pool-4-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_thing.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+18:42:53.487 [pool-4-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_thing.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+18:43:03.491 [pool-4-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_thing.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+18:43:13.497 [pool-4-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_thing.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0

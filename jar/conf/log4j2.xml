@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="info" monitorInterval="5">
+	<Appenders>
+    	<Console name="Console" target="SYSTEM_OUT">
+      		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n"/>
+    	</Console>
+    	<!-- file log root 설정 -->
+    	<RollingFile name="rollingFile" fileName="./logs/log/log.log" filePattern="./logs/log/log.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>
+	 	
+	 	<!-- file log 개별설정 -->
+	 	<RollingFile name="hiberLogFile" fileName="./logs/log/log_hibernate.log" filePattern="./logs/log/log_hibernate.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>
+	 	
+    	<!-- <RollingFile name="새올_자산LogFile" fileName="./logs/log/log_새올_자산.log" filePattern="./logs/log/log_새올_자산.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>
+	 	<RollingFile name="조달청_검사LogFile" fileName="./logs/log/log_조달청_검사.log" filePattern="./logs/log/log_조달청_검사.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>
+	 	<RollingFile name="e호조_계약LogFile" fileName="./logs/log/log_e호조_계약.log" filePattern="./logs/log/log_e호조_계약.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>
+	 	<RollingFile name="e호조_계약_거래처LogFile" fileName="./logs/log/log_e호조_계약_거래처.log" filePattern="./logs/log/log_e호조_계약_거래처.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>
+	 	<RollingFile name="e호조_물품LogFile" fileName="./logs/log/log_e호조_물품.log" filePattern="./logs/log/log_e호조_물품.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>
+	 	<RollingFile name="e호조_지출LogFile" fileName="./logs/log/log_e호조_지출.log" filePattern="./logs/log/log_e호조_지출.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>
+	 	<RollingFile name="e호조_지출_거래처LogFile" fileName="./logs/log/log_e호조_지출_거래처.log" filePattern="./logs/log/log_e호조_지출_거래처.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile> -->
+	 	<RollingFile name="e사람LogFile" fileName="./logs/log/log_e사람.log" filePattern="./logs/log/log_e사람.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>
+	 	
+	 	<!-- error log root 설정 -->
+	 	<RollingFile name="errorFile" fileName="./logs/error/error.log" filePattern="./logs/error/error.log.%d{yyyy-MM-dd}">
+	 		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	 		<Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+            </Policies>
+	 	</RollingFile>
+	 	
+	 	<!-- error log 개별 설정 -->
+	 	<RollingFile name="hiberErrorFile" fileName="./logs/error/error_hibernate.log" filePattern="./logs/error/error_hibernate.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>
+	 	
+	 	<!-- <RollingFile name="새올_자산ErrorFile" fileName="./logs/error/error_새올_자산.log" filePattern="./logs/error/error_새올_자산.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>
+	 	<RollingFile name="조달청_검사ErrorFile" fileName="./logs/error/error_조달청_검사.log" filePattern="./logs/error/error_조달청_검사.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>
+	 	<RollingFile name="e호조_계약ErrorFile" fileName="./logs/error/error_e호조_계약.log" filePattern="./logs/error/error_e호조_계약.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>
+	 	<RollingFile name="e호조_계약_거래처ErrorFile" fileName="./logs/error/error_e호조_계약_거래처.log" filePattern="./logs/error/error_e호조_계약_거래처.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>
+	 	<RollingFile name="e호조_물품ErrorFile" fileName="./logs/error/error_e호조_물품.log" filePattern="./logs/error/error_e호조_물품.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>
+	 	<RollingFile name="e호조_지출ErrorFile" fileName="./logs/error/error_e호조_지출.log" filePattern="./logs/error/error_e호조_지출.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>
+	 	<RollingFile name="e호조_지출_거래처ErrorFile" fileName="./logs/error/error_e호조_지출_거래처.log" filePattern="./logs/error/error_e호조_지출_거래처.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile>	 -->
+	 	<RollingFile name="e사람ErrorFile" fileName="./logs/error/error_e사람.log" filePattern="./logs/error/error_e사람.log.%d{yyyy-MM-dd}">
+    		<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %location - %msg%n" />
+	  			<Policies>
+	   				<TimeBasedTriggeringPolicy />
+	  			</Policies>
+	 	</RollingFile> 
+  	</Appenders>
+  	
+	<Loggers>
+    	<Root level="info" additivity="false" >
+      		<AppenderRef ref="Console" level="info"/>
+      		<AppenderRef ref="rollingFile" level="info"/>
+      		<AppenderRef ref="errorFile" level="error"/>
+    	</Root>
+    	
+  		<Logger name="org.hibernate" level="info" additivity="false">
+   			<AppenderRef ref="hiberLogFile" level="info"/>
+   			<AppenderRef ref="hiberErrorFile" level="error"/>
+   			<AppenderRef ref="Console" level="info"/>
+  		</Logger>
+  		
+  		<Logger name="org.hibernate.SQL" level="debug" additivity="false">
+   			<AppenderRef ref="hiberLogFile" level="debug"/>
+   			<AppenderRef ref="hiberErrorFile" level="error"/>
+   			<AppenderRef ref="Console" level="info"/>
+  		</Logger>
+  		
+  		<Logger name="org.hibernate.type.descriptor.sql.BasicBinder" level="trace" additivity="false">
+   			<AppenderRef ref="hiberLogFile" level="trace"/>
+   			<AppenderRef ref="hiberErrorFile" level="error"/>
+   			<AppenderRef ref="Console" level="info"/>
+  		</Logger>
+    	
+    	<!-- <Logger name="kr.go.mpss.idsl.dmr.ip.link.saeol_asset" level="info" additivity="false" includeLocation="true">
+   			<AppenderRef ref="새올_자산LogFile" level="info"/>
+   			<AppenderRef ref="새올_자산ErrorFile" level="error"/>
+   			<AppenderRef ref="Console" level="info"/>
+  		</Logger>
+  		
+  		<Logger name="kr.go.mpss.idsl.dmr.ip.link.g2b_prsec" level="info" additivity="false">
+   			<AppenderRef ref="조달청_검사LogFile" level="info"/>
+   			<AppenderRef ref="조달청_검사ErrorFile" level="error"/>
+   			<AppenderRef ref="Console" level="info"/>
+  		</Logger>
+  		
+  		<Logger name="kr.go.mpss.idsl.dmr.ip.link.ehojo_contract" level="info" additivity="false">
+   			<AppenderRef ref="e호조_계약LogFile" level="info"/>
+   			<AppenderRef ref="e호조_계약ErrorFile" level="error"/>
+   			<AppenderRef ref="Console" level="info"/>
+  		</Logger>
+  		
+  		<Logger name="kr.go.mpss.idsl.dmr.ip.link.ehojo_contract_bcnc" level="info" additivity="false">
+   			<AppenderRef ref="e호조_계약_거래처LogFile" level="info"/>
+   			<AppenderRef ref="e호조_계약_거래처ErrorFile" level="error"/>
+   			<AppenderRef ref="Console" level="info"/>
+  		</Logger>
+  		
+  		<Logger name="kr.go.mpss.idsl.dmr.ip.link.ehojo_thing" level="info" additivity="false">
+   			<AppenderRef ref="e호조_물품LogFile" level="info"/>
+   			<AppenderRef ref="e호조_물품ErrorFile" level="error"/>
+   			<AppenderRef ref="Console" level="info"/>
+  		</Logger>
+  		
+  		<Logger name="kr.go.mpss.idsl.dmr.ip.link.ehojo_expd" level="info" additivity="false">
+   			<AppenderRef ref="e호조_지출LogFile" level="info"/>
+   			<AppenderRef ref="e호조_지출ErrorFile" level="error"/>
+   			<AppenderRef ref="Console" level="info"/>
+  		</Logger>
+  		
+  		<Logger name="kr.go.mpss.idsl.dmr.ip.link.ehojo_expd_bcnc" level="info" additivity="false">
+   			<AppenderRef ref="e호조_지출_거래처LogFile" level="info"/>
+   			<AppenderRef ref="e호조_지출_거래처ErrorFile" level="error"/>
+   			<AppenderRef ref="Console" level="info"/>
+  		</Logger> -->
+  		
+  		<Logger name="kr.go.mpss.idsl.dmr.ip.link.esaram" level="info" additivity="false">
+   			<AppenderRef ref="e사람LogFile" level="info"/>
+   			<AppenderRef ref="e사람ErrorFile" level="error"/>
+   			<AppenderRef ref="Console" level="info"/>
+  		</Logger>
+  	</Loggers>
+  	
+</Configuration>

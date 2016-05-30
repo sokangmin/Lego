@@ -1,0 +1,12 @@
+18:10:45.179 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:73) - System critical Exception
+java.lang.ClassCastException: kr.go.mpss.idsl.dmr.ip.link.ehojo_thing.TFE_THNG_DTL_INFO cannot be cast to kr.go.mpss.idsl.dmr.ip.link.ehojo_thing.THNG_Dto
+	at kr.go.mpss.idsl.dmr.ip.link.ehojo_thing.THNG_Dto2TFE_THNG_DTL_INFOBlock.doing(THNG_Dto2TFE_THNG_DTL_INFOBlock.java:17) ~[bin/:?]
+	at kr.go.mpss.idsl.dmr.ip.link.ehojo_thing.THNG_Dto2TFE_THNG_DTL_INFOBlock.doing(THNG_Dto2TFE_THNG_DTL_INFOBlock.java:1) ~[bin/:?]
+	at com.wini.lego.blocks.Block.dooo(Block.java:36) ~[bin/:?]
+	at com.wini.lego.flow.DefaultLego.start(DefaultLego.java:58) [bin/:?]
+	at com.wini.lego.flow.MultiThreadLego$Service.run(MultiThreadLego.java:271) [bin/:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.7.0_80]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.7.0_80]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.7.0_80]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.7.0_80]
+	at java.lang.Thread.run(Unknown Source) [?:1.7.0_80]

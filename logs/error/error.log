@@ -1,0 +1,69 @@
+14:53:30.254 [pool-2-thread-1] ERROR com.wini.common.database.SessionFactoryHome.<clinit>(SessionFactoryHome.java:55) - [SessionFactoryHome | static ] HibernateException : org.hibernate.AnnotationException: Property of @IdClass not found in entity kr.go.mpss.idsl.dmr.ip.link.esaram.TFE_TN_HCA_MASTER: p_id
+14:53:30.622 [pool-2-thread-1] ERROR com.wini.common.database.SessionFactoryHome.<clinit>(SessionFactoryHome.java:90) - [SessionFactoryHome | static ] NamingException : javax.naming.NameNotFoundException: Name db is not bound in this Context
+14:53:30.633 [pool-2-thread-1] ERROR com.wini.common.database.SessionFactoryHome.getSessionFactory(SessionFactoryHome.java:133) - [ SessionFactoryHome | SessionFactory ] NamingException : javax.naming.NameNotFoundException: Name db is not bound in this Context
+15:38:32.055 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+15:38:32.136 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+15:38:32.188 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+15:42:45.135 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+15:45:56.398 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+15:45:56.400 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+15:45:56.423 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+15:45:56.443 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+15:45:56.444 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+15:48:29.700 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+15:48:29.700 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+15:48:29.702 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+15:50:52.608 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+15:50:52.608 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+15:50:52.641 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+15:51:38.469 [pool-3-thread-4] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+15:51:38.470 [pool-3-thread-4] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+15:51:38.472 [pool-3-thread-4] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+15:57:37.502 [pool-3-thread-3] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.GenericJDBCException: could not execute batch
+15:57:37.503 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+15:57:37.505 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+15:59:41.257 [pool-3-thread-3] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.GenericJDBCException: could not execute batch
+15:59:41.257 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+15:59:41.258 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:00:56.677 [pool-3-thread-4] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.GenericJDBCException: could not execute batch
+16:00:56.691 [pool-3-thread-4] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:00:56.694 [pool-3-thread-4] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:04:57.663 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.GenericJDBCException: could not execute batch
+16:04:57.664 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:04:57.673 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:10:18.710 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+16:10:18.720 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:10:18.722 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:19:35.214 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+16:19:35.215 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:20:06.334 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:23:43.566 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+16:23:43.568 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:23:43.569 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:26:03.896 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+16:26:03.897 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:26:03.900 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:30:39.469 [pool-3-thread-4] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+16:30:39.470 [pool-3-thread-4] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:30:39.473 [pool-3-thread-4] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:33:30.860 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+16:33:30.880 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:33:30.883 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:36:20.783 [pool-3-thread-3] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+16:36:20.786 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:36:20.787 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:39:07.795 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+16:39:07.795 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:39:07.797 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:40:09.186 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+16:40:09.187 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:40:09.188 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:45:55.659 [pool-3-thread-4] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+16:45:55.659 [pool-3-thread-4] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:45:55.738 [pool-3-thread-4] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:58:07.787 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+16:58:07.788 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:58:07.799 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+17:08:00.904 [pool-3-thread-4] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+17:08:00.904 [pool-3-thread-4] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+17:08:00.906 [pool-3-thread-4] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<

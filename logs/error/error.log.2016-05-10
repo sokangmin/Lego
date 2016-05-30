@@ -1,0 +1,13 @@
+09:37:46.741 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - java.lang.ArrayIndexOutOfBoundsException: 12
+09:37:46.746 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+09:37:46.746 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract_partn.FailBlock.dooo(FailBlock.java:20) - java.lang.ArrayIndexOutOfBoundsException: 12
+09:37:46.778 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+10:26:36.210 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.GenericJDBCException: could not execute batch
+10:26:36.211 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+10:26:36.258 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+10:38:37.226 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.ConstraintViolationException: could not execute batch
+10:38:37.226 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+10:38:37.231 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+11:12:39.646 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.exception.GenericJDBCException: could not execute batch
+11:12:39.646 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+11:12:39.671 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<

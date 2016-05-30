@@ -1,0 +1,26 @@
+09:40:04.606 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:79) - System critical Exception
+java.util.regex.PatternSyntaxException: Unclosed character class near index 31
+[!][@][^][#][!][$][$][$][$][$]
+
+                               ^
+	at java.util.regex.Pattern.error(Pattern.java:1924) ~[?:1.7.0_60]
+	at java.util.regex.Pattern.clazz(Pattern.java:2493) ~[?:1.7.0_60]
+	at java.util.regex.Pattern.sequence(Pattern.java:2030) ~[?:1.7.0_60]
+	at java.util.regex.Pattern.expr(Pattern.java:1964) ~[?:1.7.0_60]
+	at java.util.regex.Pattern.compile(Pattern.java:1665) ~[?:1.7.0_60]
+	at java.util.regex.Pattern.<init>(Pattern.java:1337) ~[?:1.7.0_60]
+	at java.util.regex.Pattern.compile(Pattern.java:1022) ~[?:1.7.0_60]
+	at java.lang.String.split(String.java:2313) ~[?:1.7.0_60]
+	at java.lang.String.split(String.java:2355) ~[?:1.7.0_60]
+	at kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Txt2CNTRCT_INFOBlock.doing(Txt2CNTRCT_INFOBlock.java:39) ~[bin/:?]
+	at kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Txt2CNTRCT_INFOBlock.doing(Txt2CNTRCT_INFOBlock.java:1) ~[bin/:?]
+	at com.wini.lego.blocks.Block.dooo(Block.java:36) ~[bin/:?]
+	at com.wini.lego.flow.DefaultLego.start(DefaultLego.java:58) [bin/:?]
+	at com.wini.lego.flow.MultiThreadLego$Service.run(MultiThreadLego.java:271) [bin/:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471) [?:1.7.0_60]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262) [?:1.7.0_60]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) [?:1.7.0_60]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) [?:1.7.0_60]
+	at java.lang.Thread.run(Thread.java:745) [?:1.7.0_60]
+10:12:39.264 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - java.lang.ArrayIndexOutOfBoundsException: 34
+10:12:39.265 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>

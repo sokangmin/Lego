@@ -1,0 +1,46 @@
+15:35:02.903 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+15:35:02.924 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+15:41:45.660 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+15:41:45.660 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+15:41:45.843 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+15:41:45.847 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+15:47:36.758 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+15:47:36.758 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+15:49:59.629 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+15:49:59.629 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+15:51:04.813 [pool-3-thread-4] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+15:51:04.814 [pool-3-thread-4] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+15:53:04.355 [pool-3-thread-3] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - Deadlock detected.
+15:53:04.355 [pool-3-thread-3] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+15:59:23.729 [pool-3-thread-3] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - Deadlock detected.
+15:59:23.729 [pool-3-thread-3] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+16:00:06.548 [pool-3-thread-4] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - Deadlock detected.
+16:00:06.548 [pool-3-thread-4] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+16:00:56.647 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - Deadlock detected.
+16:00:56.647 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+16:07:33.609 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+16:07:33.609 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+16:16:50.710 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+16:16:50.755 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+16:22:52.145 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+16:22:52.145 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+16:24:46.266 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+16:24:46.266 [pool-3-thread-2] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+16:29:45.446 [pool-3-thread-4] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+16:29:45.446 [pool-3-thread-4] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+16:32:38.174 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+16:32:38.174 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+16:35:25.850 [pool-3-thread-3] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+16:35:25.850 [pool-3-thread-3] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+16:38:14.981 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+16:38:14.981 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+16:40:05.860 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+16:40:05.860 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+16:41:14.471 [pool-3-thread-4] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+16:41:14.471 [pool-3-thread-4] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+16:51:40.081 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+16:51:40.081 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+17:04:08.894 [pool-3-thread-4] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - UNIQUE constraint violation ('SFE'.'PK_TFE_ASSETS_INFO_CMMN').
+17:04:08.894 [pool-3-thread-4] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+17:31:26.754 [pool-3-thread-5] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - Deadlock detected.
+17:31:26.755 [pool-3-thread-5] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]

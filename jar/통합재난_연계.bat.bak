@@ -1,0 +1,3 @@
+c:
+cd C:\Users\winitech\workspace\통합재난_연계\jar
+java -jar mpss_link.jar

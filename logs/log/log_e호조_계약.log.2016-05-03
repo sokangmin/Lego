@@ -1,0 +1,11 @@
+09:37:52.332 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+09:38:57.280 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+09:39:55.992 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+09:50:32.599 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+09:53:11.983 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+09:58:22.841 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+10:11:18.141 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+10:12:36.817 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+10:12:39.266 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - java.lang.ArrayIndexOutOfBoundsException: 34
+10:12:46.800 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+10:18:58.603 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1

@@ -1,0 +1,10 @@
+14:57:37.937 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.saeol_asset.Xml2TFE_EQPMNBlock.doing(Xml2TFE_EQPMNBlock.java:39) - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[java.io.FileNotFoundException: C:\saeol_asset\201604221357Ay27jESB$SIDUMP$CG131036000761$CG175008702296$SIDUMP$CG175008702296$6460000_20160421165602 (지정된 파일을 찾을 수 없습니다)]
+14:58:00.008 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.saeol_asset.Xml2TFE_EQPMNBlock.doing(Xml2TFE_EQPMNBlock.java:39) - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[com.sun.org.apache.xerces.internal.impl.io.MalformedByteSequenceException: Invalid byte 1 of 1-byte UTF-8 sequence.]
+16:06:37.499 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.saeol_asset.Xml2TFE_EQPMNBlock.doing(Xml2TFE_EQPMNBlock.java:39) - javax.xml.bind.UnmarshalException
+ - with linked exception:
+[java.io.FileNotFoundException: C:\saeol_asset\201604221357Ay27jESB$SIDUMP$CG131036000761$CG175008702296$SIDUMP$CG175008702296$6460000_20160421165602 (지정된 파일을 찾을 수 없습니다)]
+16:07:52.636 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.saeol_asset.FailBlock.dooo(FailBlock.java:22) - delivery message is null

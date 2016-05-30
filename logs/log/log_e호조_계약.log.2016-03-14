@@ -1,0 +1,579 @@
+11:29:09.301 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+11:29:09.442 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+11:29:09.926 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - java.lang.NullPointerException
+11:29:09.941 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:30) - C:\e-hojo_contract\Noname99 - 복사본.xml>>>>>>>>C:\fail_e-hojo_contract
+11:30:19.138 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:30:24.601 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:30:34.573 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:30:44.573 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+11:30:44.654 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+11:30:45.107 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - java.lang.NullPointerException
+11:30:45.123 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:30) - C:\e-hojo_contract\Noname99 - 복사본 - 복사본.xml>>>>>>>>C:\fail_e-hojo_contract
+11:30:54.583 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:33:48.452 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:33:58.433 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+11:33:58.513 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+11:34:01.767 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.ToDBBlock.doing(ToDBBlock.java:44) - SaveOrUpdate to DB : TFE_CNTRCT_INFO(cntrct_regstr_mng_no=56700002016030052325, fsclyr=null, cntrct_nm=동력소방  펌프  구입테스트, cntrct_se_cd=null, cntrct_se_nm=물품, cntrct_obj_cd=null, eqpmn_cntrct_knd_cd=null, eqpmn_cntrct_knd_nm=null, cntrct_ty_cd=null, cntrct_ty_nm=null, smrize_cntrct_de=20160307, smrize_cntrct_sm_amt=7000000, strwrk_de=null, frst_smrize_cntrctamount=0, compet_prrng_de=null, expens_se_cd=null, expens_se_nm=null, compet_de=null, debit_at=null, new_lngtr_se_cd=null, new_lngtr_se_nm=null, cntrct_mth=null, cntrct_mth_nm=null, cntrct_sumry=null, lc_nm=전라북도 나주소방서, prcure_se_cd=null, prcure_se_nm=null, cntrct_chpsn_id=null, cntrct_chpsn_nm=홍길동, local_gov_cd=5670000, inpt_se_cd=I)
+11:34:08.435 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:34:18.426 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:34:28.429 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+11:34:28.429 [pool-3-thread-2] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+11:38:26.298 [pool-3-thread-2] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+11:38:26.315 [pool-3-thread-2] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:30) - C:\e-hojo_contract\Noname99.xml>>>>>>>>C:\fail_e-hojo_contract
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.315 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.331 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.331 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.331 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.331 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.331 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:26.331 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:28.437 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:38.439 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:48.441 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:38:58.443 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:39:08.433 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:39:18.441 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:39:28.430 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:39:38.432 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:39:48.433 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:39:58.442 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:40:08.431 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:40:18.433 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:40:28.435 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:40:38.440 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:40:48.444 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:40:58.432 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:41:08.435 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:41:18.444 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:41:28.442 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:41:38.434 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:41:48.441 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:41:58.432 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:42:08.442 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:42:18.445 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:42:28.437 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:42:38.445 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:42:48.436 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:42:58.432 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:43:08.435 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:43:18.434 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:43:28.438 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:43:38.435 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:43:48.437 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:43:58.437 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:44:08.438 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:44:18.444 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:44:28.436 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:44:38.444 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:44:48.435 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:44:58.436 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:45:08.439 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:45:18.441 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:45:28.447 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:45:38.435 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:45:48.444 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:45:58.439 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:46:08.446 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:46:18.445 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:46:28.451 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:46:38.441 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:46:48.448 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:46:58.436 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:47:08.444 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:47:18.446 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:47:28.451 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:47:38.440 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:47:48.442 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:47:58.440 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:48:08.445 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:48:18.452 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:48:28.438 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:48:38.442 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:48:48.445 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:48:58.447 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:49:08.442 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:49:18.441 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:49:28.439 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:49:38.442 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:49:48.440 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:49:58.441 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:50:08.443 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:50:18.445 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:50:28.442 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:50:38.453 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:50:48.439 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:50:58.454 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:51:08.447 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:51:18.443 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:51:28.449 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:51:38.444 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:51:48.451 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:51:58.442 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:52:08.445 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:52:18.440 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:52:28.441 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:52:38.453 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:52:48.441 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:52:58.450 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:53:08.454 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:53:18.451 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:53:28.452 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:53:38.447 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:53:48.444 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:53:58.457 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:54:08.451 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:54:18.449 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:54:28.452 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:54:38.442 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:54:48.445 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:54:58.450 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:55:08.452 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:55:18.446 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:55:28.458 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:55:38.453 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:55:48.448 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:55:58.456 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:56:08.448 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:56:18.445 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:56:28.455 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:56:38.447 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:56:48.448 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:56:58.448 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:57:08.460 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:57:18.449 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:57:28.448 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:57:38.456 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:57:48.451 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:57:58.459 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:58:08.449 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:58:18.446 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:58:28.456 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:58:38.460 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:58:48.454 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:58:58.453 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:59:08.449 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:59:18.449 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:59:28.455 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:59:38.458 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:59:48.448 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+11:59:58.459 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:00:08.460 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:00:18.458 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:00:28.457 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:00:38.453 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:00:48.463 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:00:58.455 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:01:08.461 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:01:18.449 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:01:28.449 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:01:38.461 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:01:48.452 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:01:58.460 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:02:08.452 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:02:18.460 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:02:28.462 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:02:38.461 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:02:48.461 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:02:58.462 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:03:08.457 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:03:18.457 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:03:28.461 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:03:38.463 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:03:48.465 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:03:58.454 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:04:08.456 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:04:18.457 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:04:28.461 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:04:38.460 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:04:48.462 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:04:58.465 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:05:08.452 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:05:18.453 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:05:28.453 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:05:38.466 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:05:48.459 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:05:58.454 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:06:08.466 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:06:18.464 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:06:28.456 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:06:38.454 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:06:48.467 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:06:58.455 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:07:08.454 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:07:18.456 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:07:28.459 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:07:38.467 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:07:48.468 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:07:58.455 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:08:08.462 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:08:18.458 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:08:28.462 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:08:38.456 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:08:48.468 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:08:58.461 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:09:08.464 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:09:18.458 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:09:28.456 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:09:38.460 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:09:48.464 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:09:58.459 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:10:08.466 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:10:18.459 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:10:28.465 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:10:38.460 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:10:48.467 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:10:58.457 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:11:08.467 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:11:18.459 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:11:28.471 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:11:38.466 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:11:48.459 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:11:58.458 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:12:08.461 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:12:18.470 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:12:28.465 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:12:38.462 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:12:48.472 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:12:58.461 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:13:08.470 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:13:18.465 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:13:28.467 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:13:38.473 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:13:48.466 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:13:58.460 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:14:08.473 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:14:18.471 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:14:28.464 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:14:38.472 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:14:48.468 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:14:58.466 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:15:08.474 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:15:18.463 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:15:28.461 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:15:38.474 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:15:48.467 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:15:58.474 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:16:08.473 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:16:18.465 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:16:28.465 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:16:38.471 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:16:48.464 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:16:58.474 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:17:08.465 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:17:18.462 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:17:28.472 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:17:38.478 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:17:48.469 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:17:58.464 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:18:08.473 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:18:18.467 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:18:28.464 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:18:38.471 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:18:48.478 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:18:58.475 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:19:08.466 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:19:18.475 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:19:28.469 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:19:38.466 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:19:48.476 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:19:58.467 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:20:08.471 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:20:18.468 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:20:28.465 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:20:38.476 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:20:48.467 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:20:58.474 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:21:08.469 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:21:18.466 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:21:28.476 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:21:38.468 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:21:48.477 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:21:58.477 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:22:08.466 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:22:18.470 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:22:28.477 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:22:38.474 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:22:48.467 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:22:58.467 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:51.500 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.217 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.217 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.217 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.217 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.217 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.217 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.217 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.233 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.233 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.233 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.233 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.233 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.233 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.233 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.233 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.233 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.233 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.233 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.233 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.233 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.248 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.249 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.265 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.265 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.265 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.265 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.265 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.265 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.265 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.265 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.265 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.265 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.265 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.265 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.265 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.265 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.265 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:54.265 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:32:58.728 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:33:08.734 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:33:18.739 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:33:28.733 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:33:38.728 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:33:48.732 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:33:58.728 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:34:08.736 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:34:18.735 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:34:28.730 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:34:38.738 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:34:48.740 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:34:58.738 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:35:08.740 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:35:18.741 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:35:28.731 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:35:38.741 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:35:48.741 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:35:58.739 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:36:08.741 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:36:18.731 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:36:28.740 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:36:38.733 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:36:48.742 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:36:58.730 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:37:08.742 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+12:37:08.742 [pool-3-thread-3] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+12:37:18.842 [pool-3-thread-3] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+12:37:18.842 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+12:37:18.858 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+12:37:18.874 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+12:37:28.742 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+12:37:28.757 [pool-3-thread-2] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+12:37:38.845 [pool-3-thread-2] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+12:37:38.845 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+12:37:38.877 [pool-3-thread-3] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+12:37:48.991 [pool-3-thread-3] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+12:37:48.991 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+12:37:49.023 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+12:37:59.131 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+12:37:59.131 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+12:37:59.147 [pool-3-thread-2] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+12:37:59.147 [pool-3-thread-2] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+12:38:08.739 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+12:38:08.739 [pool-3-thread-3] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+12:38:09.254 [pool-3-thread-3] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+12:38:18.740 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+12:38:18.740 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+12:38:28.875 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+12:38:28.875 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+12:38:28.890 [pool-3-thread-2] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+12:38:38.983 [pool-3-thread-2] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+12:38:38.983 [pool-3-thread-2] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:30) - C:\e-hojo_contract\Noname99 - 복사본.xml>>>>>>>>C:\fail_e-hojo_contract
+12:38:38.983 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:38:48.733 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:38:58.741 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:39:08.745 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:39:18.741 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:39:28.734 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:39:38.741 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:39:48.732 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:39:58.746 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:40:08.740 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:40:18.737 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+12:40:18.753 [pool-3-thread-3] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+12:40:18.785 [pool-3-thread-3] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.ToDBBlock.doing(ToDBBlock.java:44) - SaveOrUpdate to DB : TFE_CNTRCT_INFO(cntrct_regstr_mng_no=56700002016030052329, fsclyr=null, cntrct_nm=동력소방  펌프  구입테스트, cntrct_se_cd=null, cntrct_se_nm=물품, cntrct_obj_cd=null, eqpmn_cntrct_knd_cd=null, eqpmn_cntrct_knd_nm=null, cntrct_ty_cd=null, cntrct_ty_nm=null, smrize_cntrct_de=20160307, smrize_cntrct_sm_amt=7000000, strwrk_de=null, frst_smrize_cntrctamount=0, compet_prrng_de=null, expens_se_cd=null, expens_se_nm=null, compet_de=null, debit_at=null, new_lngtr_se_cd=null, new_lngtr_se_nm=null, cntrct_mth=null, cntrct_mth_nm=null, cntrct_sumry=null, lc_nm=전라북도 나주소방서, prcure_se_cd=null, prcure_se_nm=null, cntrct_chpsn_id=null, cntrct_chpsn_nm=홍길동, local_gov_cd=5670000, inpt_se_cd=I)
+12:40:28.735 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:40:38.741 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:40:48.736 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:40:58.746 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:41:08.733 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:41:18.733 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:41:28.733 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:41:38.733 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:41:48.734 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:41:58.733 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:42:08.733 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:42:18.733 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:42:28.734 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:42:38.734 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:42:48.748 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:42:58.737 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:43:08.736 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:43:18.747 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:43:28.742 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:43:38.738 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:43:48.735 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:43:58.738 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:44:08.735 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:44:18.735 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:44:28.750 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:44:38.739 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:44:48.736 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:44:58.751 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:45:08.742 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:45:18.745 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:45:28.741 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:45:38.749 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:45:48.745 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:45:58.750 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:46:08.749 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:46:18.743 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:46:28.752 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:46:38.745 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:46:48.739 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:46:58.750 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:47:08.745 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:47:18.748 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:47:28.740 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:47:38.739 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:47:48.746 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:47:58.753 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:48:08.749 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:48:18.743 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:48:28.748 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:48:38.739 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:48:48.740 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:48:58.747 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:49:08.744 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:49:18.745 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:49:28.741 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:49:38.748 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:49:48.745 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:49:58.752 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:50:08.748 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:50:18.743 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:50:28.742 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:50:38.749 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:50:48.754 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+12:56:15.501 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+12:56:15.580 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+12:56:18.582 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.ToDBBlock.doing(ToDBBlock.java:44) - SaveOrUpdate to DB : TFE_CNTRCT_INFO(cntrct_regstr_mng_no=56700002016030052329, fsclyr=null, cntrct_nm=동력소방  펌프  구입테스트, cntrct_se_cd=null, cntrct_se_nm=물품, cntrct_obj_cd=null, eqpmn_cntrct_knd_cd=null, eqpmn_cntrct_knd_nm=null, cntrct_ty_cd=null, cntrct_ty_nm=null, smrize_cntrct_de=20160307, smrize_cntrct_sm_amt=7000000, strwrk_de=null, frst_smrize_cntrctamount=0, compet_prrng_de=null, expens_se_cd=null, expens_se_nm=null, compet_de=null, debit_at=null, new_lngtr_se_cd=null, new_lngtr_se_nm=null, cntrct_mth=null, cntrct_mth_nm=null, cntrct_sumry=null, lc_nm=전라북도 나주소방서, prcure_se_cd=null, prcure_se_nm=null, cntrct_chpsn_id=null, cntrct_chpsn_nm=홍길동, local_gov_cd=5670000, inpt_se_cd=I)
+16:15:09.844 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:15:19.838 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:15:29.824 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:15:29.903 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:15:33.013 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.ToDBBlock.doing(ToDBBlock.java:44) - SaveOrUpdate to DB : TFE_CNTRCT_INFO(cntrct_regstr_mng_no=56700002016030052329, fsclyr=null, cntrct_nm=동력소방  펌프  구입테스트, cntrct_se_cd=null, cntrct_se_nm=물품, cntrct_obj_cd=null, eqpmn_cntrct_knd_cd=null, eqpmn_cntrct_knd_nm=null, cntrct_ty_cd=null, cntrct_ty_nm=null, smrize_cntrct_de=20160307, smrize_cntrct_sm_amt=7000000, strwrk_de=null, frst_smrize_cntrctamount=0, compet_prrng_de=null, expens_se_cd=null, expens_se_nm=null, compet_de=null, debit_at=null, new_lngtr_se_cd=null, new_lngtr_se_nm=null, cntrct_mth=null, cntrct_mth_nm=null, cntrct_sumry=null, lc_nm=전라북도 나주소방서, prcure_se_cd=null, prcure_se_nm=null, cntrct_chpsn_id=null, cntrct_chpsn_nm=홍길동, local_gov_cd=5670000, inpt_se_cd=I)
+16:15:39.833 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:15:49.834 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:15:59.824 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:15:59.840 [pool-3-thread-2] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:16:40.290 [pool-3-thread-2] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+16:16:40.290 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:16:40.306 [pool-3-thread-3] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:16:41.308 [pool-3-thread-3] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+16:16:41.308 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:16:41.308 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:16:42.339 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+16:16:42.339 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:16:42.339 [pool-3-thread-2] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:16:43.354 [pool-3-thread-2] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+16:16:43.354 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:16:43.354 [pool-3-thread-3] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:16:44.369 [pool-3-thread-3] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+16:30:07.749 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:30:07.829 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:30:11.176 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.ToDBBlock.doing(ToDBBlock.java:44) - SaveOrUpdate to DB : TFE_CNTRCT_INFO(cntrct_regstr_mng_no=56700002016030052329, fsclyr=null, cntrct_nm=동력소방  펌프  구입테스트, cntrct_se_cd=null, cntrct_se_nm=물품, cntrct_obj_cd=null, eqpmn_cntrct_knd_cd=null, eqpmn_cntrct_knd_nm=null, cntrct_ty_cd=null, cntrct_ty_nm=null, smrize_cntrct_de=20160307, smrize_cntrct_sm_amt=7000000, strwrk_de=null, frst_smrize_cntrctamount=0, compet_prrng_de=null, expens_se_cd=null, expens_se_nm=null, compet_de=null, debit_at=null, new_lngtr_se_cd=null, new_lngtr_se_nm=null, cntrct_mth=null, cntrct_mth_nm=null, cntrct_sumry=null, lc_nm=전라북도 나주소방서, prcure_se_cd=null, prcure_se_nm=null, cntrct_chpsn_id=null, cntrct_chpsn_nm=홍길동, local_gov_cd=5670000, inpt_se_cd=I)
+16:30:17.725 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:30:27.736 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:30:27.736 [pool-3-thread-2] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:30:27.752 [pool-3-thread-2] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.ToDBBlock.doing(ToDBBlock.java:44) - SaveOrUpdate to DB : TFE_CNTRCT_INFO(cntrct_regstr_mng_no=56700002016030052329, fsclyr=null, cntrct_nm=동력소방  펌프  구입테스트, cntrct_se_cd=null, cntrct_se_nm=물품, cntrct_obj_cd=null, eqpmn_cntrct_knd_cd=null, eqpmn_cntrct_knd_nm=null, cntrct_ty_cd=null, cntrct_ty_nm=null, smrize_cntrct_de=20160307, smrize_cntrct_sm_amt=7000000, strwrk_de=null, frst_smrize_cntrctamount=0, compet_prrng_de=null, expens_se_cd=null, expens_se_nm=null, compet_de=null, debit_at=null, new_lngtr_se_cd=null, new_lngtr_se_nm=null, cntrct_mth=null, cntrct_mth_nm=null, cntrct_sumry=null, lc_nm=전라북도 나주소방서, prcure_se_cd=null, prcure_se_nm=null, cntrct_chpsn_id=null, cntrct_chpsn_nm=홍길동, local_gov_cd=5670000, inpt_se_cd=I)
+16:30:37.724 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:30:37.740 [pool-3-thread-3] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:31:18.505 [pool-3-thread-3] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+16:31:18.505 [pool-3-thread-3] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:30) - C:\e-hojo_contract\Noname99 - 복사본.xml>>>>>>>>C:\fail_e-hojo_contract
+16:31:18.521 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:31:18.521 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:31:18.521 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:31:18.521 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:31:27.740 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:31:37.725 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:31:47.735 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:31:47.751 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:31:48.766 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+16:31:57.733 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:31:57.749 [pool-3-thread-2] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:31:58.764 [pool-3-thread-2] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+16:32:07.725 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:32:07.741 [pool-3-thread-3] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:32:09.755 [pool-3-thread-3] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+16:32:17.735 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:32:17.735 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:32:18.750 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+16:32:27.728 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:32:27.728 [pool-3-thread-2] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:32:27.744 [pool-3-thread-2] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.ToDBBlock.doing(ToDBBlock.java:44) - SaveOrUpdate to DB : TFE_CNTRCT_INFO(cntrct_regstr_mng_no=56700002016030052329, fsclyr=null, cntrct_nm=동력소방  펌프  구입테스트, cntrct_se_cd=null, cntrct_se_nm=물품, cntrct_obj_cd=null, eqpmn_cntrct_knd_cd=null, eqpmn_cntrct_knd_nm=null, cntrct_ty_cd=null, cntrct_ty_nm=null, smrize_cntrct_de=20160307, smrize_cntrct_sm_amt=7000000, strwrk_de=null, frst_smrize_cntrctamount=0, compet_prrng_de=null, expens_se_cd=null, expens_se_nm=null, compet_de=null, debit_at=null, new_lngtr_se_cd=null, new_lngtr_se_nm=null, cntrct_mth=null, cntrct_mth_nm=null, cntrct_sumry=null, lc_nm=전라북도 나주소방서, prcure_se_cd=null, prcure_se_nm=null, cntrct_chpsn_id=null, cntrct_chpsn_nm=홍길동, local_gov_cd=5670000, inpt_se_cd=I)
+16:32:37.733 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:32:47.731 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:32:57.741 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:33:07.732 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:34:23.221 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:34:33.214 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:34:33.294 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:34:36.307 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.ToDBBlock.doing(ToDBBlock.java:44) - SaveOrUpdate to DB : TFE_CNTRCT_INFO(cntrct_regstr_mng_no=56700002016030052329, fsclyr=null, cntrct_nm=동력소방  펌프  구입테스트, cntrct_se_cd=null, cntrct_se_nm=물품, cntrct_obj_cd=null, eqpmn_cntrct_knd_cd=null, eqpmn_cntrct_knd_nm=null, cntrct_ty_cd=null, cntrct_ty_nm=null, smrize_cntrct_de=20160307, smrize_cntrct_sm_amt=7000000, strwrk_de=null, frst_smrize_cntrctamount=0, compet_prrng_de=null, expens_se_cd=null, expens_se_nm=null, compet_de=null, debit_at=null, new_lngtr_se_cd=null, new_lngtr_se_nm=null, cntrct_mth=null, cntrct_mth_nm=null, cntrct_sumry=null, lc_nm=전라북도 나주소방서, prcure_se_cd=null, prcure_se_nm=null, cntrct_chpsn_id=null, cntrct_chpsn_nm=홍길동, local_gov_cd=5670000, inpt_se_cd=I)
+16:34:43.210 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 0
+16:34:53.219 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:34:53.234 [pool-3-thread-2] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:35:24.800 [pool-3-thread-2] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+16:35:24.816 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:35:24.832 [pool-3-thread-3] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:35:25.835 [pool-3-thread-3] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+16:35:25.835 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:35:25.850 [pool-3-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:35:26.852 [pool-3-thread-1] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started
+16:35:26.852 [pool-2-thread-1] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FromFileBlock.doing(FromFileBlock.java:31) - FromFile count - 1
+16:35:26.867 [pool-3-thread-2] INFO  kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.Xml2TFE_CNTRCT_INFOBlock.doing(Xml2TFE_CNTRCT_INFOBlock.java:28) - Convert XML to TFE_CNTRCT_INFO Object.
+16:35:27.869 [pool-3-thread-2] ERROR kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.FailBlock.dooo(FailBlock.java:20) - org.hibernate.TransactionException: Transaction not successfully started

@@ -1,0 +1,3 @@
+16:07:47.681 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:62) - delivery message is null
+16:07:52.635 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:07:52.690 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<

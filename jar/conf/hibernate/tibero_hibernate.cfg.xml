@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"classpath://hibernate/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory name="db/tibero">
+        <property name="hibernate.connection.driver_class">com.tmax.tibero.jdbc.TbDriver</property>
+        <property name="hibernate.connection.url">jdbc:tibero:thin:@10.175.84.230:8629:ndmsndb</property>
+        <property name="hibernate.connection.username">sfe</property>
+        <property name="hibernate.connection.password">sfe123</property>
+        <property name="hibernate.default_schema">sfe</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.Tibero5Dialect</property>
+        <property name="hibernate.current_session_context_class">thread</property>
+        <property name="hibernate.jdbc.batch_size">50</property>
+	    <property name="show_sql">false</property> 
+	    <property name="hibernate.cache.use_query_cache">false</property>
+	    <property name="hibernate.cache.use_second_level_cache">false</property>
+	    
+	    <!-- db pool 설정 부분 -->
+	    <property name="hibernate.c3p0.min_size">5</property>
+		<property name="hibernate.c3p0.max_size">10</property>
+		<property name="hibernate.c3p0.timeout">3000</property>
+		<property name="hibernate.c3p0.max_statements">50</property>
+		
+	    <property name="hibernate.connection.provider_class">org.hibernate.c3p0.internal.C3P0ConnectionProvider</property>
+	    <!-- <property name="hibernate.c3p0.checkoutTimeout">1000</property> -->
+		<property name="hibernate.c3p0.acquireRetryAttempts">10</property>
+		<property name="hibernate.c3p0.preferredTestQuery">SELECT 1 from dual;</property>
+		<property name="hibernate.c3p0.testConnectionOnCheckin">true</property>
+		<property name="hibernate.c3p0.testConnectionOnCheckout">true</property>
+		<property name="hibernate.c3p0.maxIdleTime">30</property>
+		<property name="hibernate.c3p0.idleConnectionTestPeriod">30</property>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+		
+		
+		<mapping class="kr.go.mpss.idsl.dmr.ip.link.saeol_asset.TFE_ASSETS_INFO_CMMN"/>
+		<mapping class="kr.go.mpss.idsl.dmr.ip.link.ehojo_contract.TFE_CNTRCT_INFO_DTL"/>
+		<mapping class="kr.go.mpss.idsl.dmr.ip.link.ehojo_thing.TFE_THNG_DTL_INFO"/>
+		<mapping class="kr.go.mpss.idsl.dmr.ip.link.ehojo_contract_partn.TFE_CNTRCT_PARTN_INFO"/>
+		<mapping class="kr.go.mpss.idsl.dmr.ip.link.ehojo_expd.TFE_EXPNDTR_INFO_E"/>
+		<mapping class="kr.go.mpss.idsl.dmr.ip.link.ehojo_expd_bcnc.TFE_EXPNDTR_BCNC_E"/>
+		<mapping class="kr.go.mpss.idsl.dmr.ip.link.esaram.TFE_TN_HCA_MASTER"/>
+		<!--<mapping class="kr.go.mpss.idsl.dmr.ip.link.g2b_prsec.TFE_FGT_THNG_PRSEC"/>-->
+				
+    </session-factory>
+    
+</hibernate-configuration>

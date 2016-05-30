@@ -1,0 +1,8 @@
+10:26:24.273 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - "SFE"."TFE_EXPNDTR_INFO_E"."PYMNT_CM_NO" The value is too large for the column. (Actual value: 8, Maximum value: 6)
+10:26:24.278 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+10:29:09.716 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - "SFE"."TFE_EXPNDTR_INFO_E"."PYMNT_CM_NO" The value is too large for the column. (Actual value: 8, Maximum value: 6)
+10:29:09.721 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+10:38:37.211 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - INTEGRITY constraint violation ('SFE'.'FK_TFE_EXPNDTR_INFO_E_01'): primary key not found.
+10:38:37.211 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]
+11:12:39.626 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper.logExceptions(SqlExceptionHelper.java:146) - "SFE"."TFE_EXPNDTR_BCNC_E"."PYMNT_CM_NO" The value is too large for the column. (Actual value: 8, Maximum value: 6)
+11:12:39.631 [pool-3-thread-1] ERROR org.hibernate.engine.jdbc.batch.internal.BatchingBatch.performExecution(BatchingBatch.java:137) - HHH000315: Exception executing batch [could not execute batch]

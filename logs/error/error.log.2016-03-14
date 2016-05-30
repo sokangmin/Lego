@@ -1,0 +1,84 @@
+11:29:09.894 [pool-3-thread-1] ERROR com.wini.common.database.SessionFactoryHome.<clinit>(SessionFactoryHome.java:55) - [SessionFactoryHome | static ] HibernateException : org.hibernate.MappingException: Unable to load class [ kr.go.mpss.idsl.dmr.ip.link.새올_자산.TFE_EQPMN] declared in Hibernate configuration <mapping/> entry
+11:29:09.926 [pool-3-thread-1] ERROR com.wini.common.database.SessionFactoryHome.<clinit>(SessionFactoryHome.java:90) - [SessionFactoryHome | static ] NamingException : javax.naming.NameNotFoundException: Name db is not bound in this Context
+11:29:09.926 [pool-3-thread-1] ERROR com.wini.common.database.SessionFactoryHome.getSessionFactory(SessionFactoryHome.java:133) - [ SessionFactoryHome | SessionFactory ] NamingException : javax.naming.NameNotFoundException: Name db is not bound in this Context
+11:29:09.926 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - java.lang.NullPointerException
+11:29:09.926 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+11:29:09.941 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+11:30:45.076 [pool-3-thread-1] ERROR com.wini.common.database.SessionFactoryHome.<clinit>(SessionFactoryHome.java:55) - [SessionFactoryHome | static ] HibernateException : org.hibernate.MappingException: Unable to load class [ kr.go.mpss.idsl.dmr.ip.link.새올_자산.TFE_EQPMN] declared in Hibernate configuration <mapping/> entry
+11:30:45.107 [pool-3-thread-1] ERROR com.wini.common.database.SessionFactoryHome.<clinit>(SessionFactoryHome.java:90) - [SessionFactoryHome | static ] NamingException : javax.naming.NameNotFoundException: Name db is not bound in this Context
+11:30:45.107 [pool-3-thread-1] ERROR com.wini.common.database.SessionFactoryHome.getSessionFactory(SessionFactoryHome.java:133) - [ SessionFactoryHome | SessionFactory ] NamingException : javax.naming.NameNotFoundException: Name db is not bound in this Context
+11:30:45.107 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - java.lang.NullPointerException
+11:30:45.107 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+11:30:45.123 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+11:38:26.298 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+11:38:26.298 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+11:38:26.315 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+12:37:18.842 [pool-3-thread-3] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+12:37:18.842 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+12:37:18.842 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+12:37:18.874 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+12:37:18.874 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+12:37:18.874 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+12:37:38.845 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+12:37:38.845 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+12:37:38.845 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+12:37:48.991 [pool-3-thread-3] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+12:37:48.991 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+12:37:48.991 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+12:37:59.131 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+12:37:59.131 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+12:37:59.131 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+12:37:59.147 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+12:37:59.147 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+12:37:59.147 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+12:38:09.254 [pool-3-thread-3] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+12:38:09.254 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+12:38:09.254 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+12:38:28.875 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+12:38:28.875 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+12:38:28.875 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+12:38:38.983 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+12:38:38.983 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+12:38:38.983 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:16:40.290 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+16:16:40.290 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:16:40.290 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:16:41.308 [pool-3-thread-3] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+16:16:41.308 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:16:41.308 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:16:42.339 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+16:16:42.339 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:16:42.339 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:16:43.354 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+16:16:43.354 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:16:43.354 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:16:44.369 [pool-3-thread-3] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+16:16:44.369 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:16:44.369 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:31:18.505 [pool-3-thread-3] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+16:31:18.505 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:31:18.505 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:31:48.766 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+16:31:48.766 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:31:48.766 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:31:58.764 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+16:31:58.764 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:31:58.764 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:32:09.755 [pool-3-thread-3] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+16:32:09.755 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:32:09.755 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:32:18.750 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+16:32:18.750 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:32:18.750 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:35:24.800 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+16:35:24.800 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:35:24.816 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:35:25.835 [pool-3-thread-3] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+16:35:25.835 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:35:25.835 [pool-3-thread-3] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:35:26.852 [pool-3-thread-1] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+16:35:26.852 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:35:26.852 [pool-3-thread-1] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
+16:35:27.869 [pool-3-thread-2] ERROR com.wini.lego.flow.DefaultLego.start(DefaultLego.java:98) - org.hibernate.TransactionException: Transaction not successfully started
+16:35:27.869 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:12) - >>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>Fail>>>
+16:35:27.869 [pool-3-thread-2] ERROR com.wini.lego.listener.Fail.doing(Fail.java:15) - <<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<Fail<<<
